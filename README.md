@@ -1,4 +1,4 @@
-# Splitwise (CMPE-273 Lab2)
+# Splitwise Clone MERN Project
 
 ### Goal - To develop a prototype of Splitwise using Node.js, React.js, MongoDB, Redux, Passport, JWT Token, AWS EC2 and Apache Kafka.
 
