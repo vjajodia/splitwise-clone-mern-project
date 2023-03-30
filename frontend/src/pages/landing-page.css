@@ -1,0 +1,19 @@
+.main-section {
+  background-image: url('../images/facets.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+
+.left-section {
+  float: left;
+  width: 50%;
+  height: 800px;
+}
+
+.right-section {
+  float: right;
+  width: 50%;
+  height: 800px;
+}
